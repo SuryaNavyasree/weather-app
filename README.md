@@ -33,4 +33,4 @@ weather-app/
 2. Replace:
 
 ```javascript
-const apiKey = "YOUR_API_KEY";
+const apiKey = "a469a9e2bb263e74610a2f743393fe77";
